@@ -1,0 +1,5 @@
+The Carrier has been hit 3 times
+The Battleship has been hit 4 times
+The Destroyer has been hit 0 times
+The Submarine has been hit 1 times
+The Patrol Boat has been hit 2 times
